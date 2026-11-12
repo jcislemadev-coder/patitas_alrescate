@@ -1,4 +1,4 @@
-package com.krakedev.jwt.entidades;
+package com.krakedev.patitas_al_rescate.entidades;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

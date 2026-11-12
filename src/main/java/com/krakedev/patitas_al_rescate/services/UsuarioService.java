@@ -1,11 +1,11 @@
-package com.krakedev.jwt.services;
+package com.krakedev.patitas_al_rescate.services;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.krakedev.jwt.entidades.Usuario;
-import com.krakedev.jwt.repositories.UsuarioRepository;
+import com.krakedev.patitas_al_rescate.entidades.Usuario;
+import com.krakedev.patitas_al_rescate.repositories.UsuarioRepository;
 
 @Service
 public class UsuarioService {
